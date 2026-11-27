@@ -1,5 +1,5 @@
-﻿.gradle/
-.kotlin/
+﻿.clj-kondo/
+**/bin/
+**/obj/
+**/.gradle/
 **/build/
-.idea/
-*.iml

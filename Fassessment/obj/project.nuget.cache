@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "wJdskA0S0tM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\OneDrive\\Desktop\\napl-2401720015\\Fassessment\\FSharpLibrary.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\fsharp.core\\10.1.401\\fsharp.core.10.1.401.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.data.sqlite\\10.0.0\\microsoft.data.sqlite.10.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.0\\microsoft.data.sqlite.core.10.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.11\\sqlitepclraw.bundle_e_sqlite3.2.1.11.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\sqlitepclraw.core\\2.1.11\\sqlitepclraw.core.2.1.11.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.11\\sqlitepclraw.lib.e_sqlite3.2.1.11.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.11\\sqlitepclraw.provider.e_sqlite3.2.1.11.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'SQLitePCLRaw.lib.e_sqlite3' 2.1.11 has a known high severity vulnerability, https://github.com/advisories/GHSA-2m69-gcr7-jv3q",
+      "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\napl-2401720015\\Fassessment\\FSharpLibrary.fsproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\HP\\OneDrive\\Desktop\\napl-2401720015\\Fassessment\\FSharpLibrary.fsproj",
+      "libraryId": "SQLitePCLRaw.lib.e_sqlite3",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
